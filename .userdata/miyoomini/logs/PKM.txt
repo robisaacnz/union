@@ -1,0 +1,26 @@
+Native resolution: 640x480
+PokeMini 0.60 Miyoo Mini
+
+Settings client
+brightness: 10
+speaker: 6
+Language client
+GFX_init
+ _MI_AO_OpenVqeLib: success
+ _MI_AO_OpenSrcLib: success
+ _MI_AO_OpenG711Lib: success
+ _MI_AO_OpenG726Lib: success
+Error loading BIOS 'bios.min': file not found
+Using FreeBIOS
+create miao audio device...
+created miao audio device!
+open miao audio
+buffer size: 4096
+Starting emulator...
+ROM '/mnt/SDCARD/Roms/Pokémon mini (PKM)/Pokemon Tetris.zip' loaded
+EEPROM '/mnt/SDCARD/Saves/PKM/Pokemon Tetris.zip.eep' loaded
+EEPROM '/mnt/SDCARD/Saves/PKM/Pokemon Tetris.zip.eep' loaded
+Starting emulator...
+EEPROM '/mnt/SDCARD/Saves/PKM/Pokemon Tetris.zip.eep' saved
+Shutdown emulator...
+close miao audio

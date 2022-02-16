@@ -1,0 +1,9 @@
+MinUI
+Settings client
+brightness: 10
+speaker: 6
+Language client
+GFX_init
+orig value: 40, fix to: -60
+orig value: 58, fix to: -42
+restoring governor ondemand.

@@ -1,0 +1,33 @@
+/mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte: /lib/libstdc++.so.6: no version information available (required by /mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte)
+/mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte: /lib/libstdc++.so.6: no version information available (required by /mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte)
+/mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte: /lib/libstdc++.so.6: no version information available (required by /mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte)
+/mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte: /lib/libstdc++.so.6: no version information available (required by /mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte)
+/mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte: /lib/libstdc++.so.6: no version information available (required by /mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte)
+/mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte: /lib/libstdc++.so.6: no version information available (required by /mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte)
+/mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte: /lib/libstdc++.so.6: no version information available (required by /mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte)
+/mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte: /lib/libstdc++.so.6: no version information available (required by /mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte)
+/mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte: /lib/libstdc++.so.6: no version information available (required by /mnt/SDCARD/.system/miyoomini/paks/Emus/GB.pak/gambatte)
+2x: true (480)
+Gambatte SDL (r572u4)
+Settings client
+brightness: 10
+speaker: 6
+Language client
+GFX_init
+ _MI_AO_OpenVqeLib: success
+ _MI_AO_OpenSrcLib: success
+ _MI_AO_OpenG711Lib: success
+ _MI_AO_OpenG726Lib: success
+Per-Game config not found. Loading default config...
+CART TYPE: GBC/DMG
+AZUREDREAMSAAZE
+GamePak type: MBC5 [RAM,battery] rambanks: 1 rombanks: 64
+header checksum: ok
+cgb: 1
+create miao audio device...
+created miao audio device!
+Could not detect IPU scaling
+open miao audio
+buffer size: 4096
+Saving savedata...
+close miao audio

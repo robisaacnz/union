@@ -1,0 +1,23 @@
+ _MI_AO_OpenVqeLib: success
+ _MI_AO_OpenSrcLib: success
+ _MI_AO_OpenG711Lib: success
+ _MI_AO_OpenG726Lib: success
+Using official BIOS
+input: new device #0 "sdl:keys"
+input: async-only devices detected..
+# drv probed binds name
+0   0      y     y sdl:keys
+create miao audio device...
+created miao audio device!
+open miao audio
+buffer size: 2048
+config_path is : /mnt/SDCARD/.userdata/miyoomini/game_config.txt
+game config missing
+frontend/libpicofe/readpng.c: failed to open: /mnt/SDCARD/.system/miyoomini/paks/Emus/GBA.pak/skin/font.png
+frontend/libpicofe/readpng.c: failed to open: /mnt/SDCARD/.system/miyoomini/paks/Emus/GBA.pak/skin/selector.png
+Settings client
+brightness: 10
+speaker: 6
+Language client
+GFX_init
+close miao audio
